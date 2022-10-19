@@ -7,3 +7,9 @@ The methods used in this exercise include generating summary statistics, bar and
 regression and Pearson r values, calculation of quartiles, IQR, and finding outliers.
 
 ![Number of Data Readings](images/num_data_readings.png)
+
+![Tumor Volume over Time](images/tumor_volume.png)
+
+![Average Tumor Volume for each Drug](images/tumor_volume_treatments.png)
+
+![Relationship between Tumor Volume and Mice Weight](images/tumor_volume_weight.png)
