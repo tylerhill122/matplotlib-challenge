@@ -5,3 +5,5 @@ and expanding on that understanding by plotting the data with Pandas and Matplot
 
 The methods used in this exercise include generating summary statistics, bar and pie charts, line plots and scatter plots with 
 regression and Pearson r values, calculation of quartiles, IQR, and finding outliers.
+
+![Number of Data Readings](images/num_data_readings.png.png)
